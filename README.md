@@ -18,8 +18,6 @@
   - Chat: `Select Health Salesforce CoE` in Teams
 - **Time of sync meeting**: Weekly Office Hours: Thurs 12:30-1pm MT
 
-> Team type: Platform
-
 ### What we're currently working on
 
 Refer to the roadmap project to see the most up-to-date information for what we're focused on.
